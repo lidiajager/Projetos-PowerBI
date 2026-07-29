@@ -1,6 +1,5 @@
-# Projetos-PowerBI
+# Projeto Dashboard Gameficado
 Projeto Dashboard Gameficado:
-
 Gostaria de apresentar uma proposta de dashboard desenvolvido em Power BI com uma abordagem diferenciada, utilizando conceitos de gamificação para transformar a visualização de indicadores de desempenho em uma experiência mais dinâmica e intuitiva.
 
 A ideia do projeto é criar um ambiente visual inspirado em uma corrida de kart, onde os colaboradores são representados como pilotos em uma pista. 
