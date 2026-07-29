@@ -3,8 +3,8 @@ Projeto Dashboard Gameficado:
 Gostaria de apresentar uma proposta de dashboard desenvolvido em Power BI com uma abordagem diferenciada, utilizando conceitos de gamificação para transformar a visualização de indicadores de desempenho em uma experiência mais dinâmica e intuitiva.
 
 A ideia do projeto é criar um ambiente visual inspirado em uma corrida de kart, onde os colaboradores são representados como pilotos em uma pista. 
-Na verdade, para combinar com a temática da empresa atual na qual trabalho, Motora.ai, que faz a gestão  da segurança de transportes por meio de IA, penso, em um segundo momento, remodelar o conceito
-da pista de karte para carretas, caminhões e ônibus numa estrada. Mas a remodelagem deixarei para fase 2 hehehe.
+Na verdade, para combinar com a temática da empresa atual na qual trabalho, que faz a gestão  da segurança de transportes por meio de IA, penso, em um segundo momento, remodelar o conceito
+da pista de kart para carretas, caminhões e ônibus numa estrada. Mas a remodelagem deixarei para fase 2 hehehe.
 
 Continuando...
 O desempenho de cada participante será refletido pela posição do seu kart, permitindo acompanhar resultados, metas e evolução de forma simples e atrativa.
