@@ -16,3 +16,4 @@ Transformar uma base plana única (`financials`) em um modelo relacional otimiza
 ## 📊 Estrutura do Modelo
 * **Fato**: `Fato_vendas`
 * **Dimensões**: `D_produtos`, `D_categoria`, `D_desconto`, `D_Calendário`
+<img width="942" height="747" alt="Star_Schema_finances_DIO" src="https://github.com/user-attachments/assets/cfa11d96-9d4c-41f9-ab92-4dc008788b9a" />
